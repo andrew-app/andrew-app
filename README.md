@@ -4,7 +4,6 @@
 <br />
 - 👀 I’m interested in all things web-dev, ML and 3D graphics.<br />
 - 🌱 I’m currently learning front-end web development.<br />
-- 💞️ I’m looking to collaborate on a social mobile app.<br />
 
 <!---
 andrew-app/andrew-app is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
